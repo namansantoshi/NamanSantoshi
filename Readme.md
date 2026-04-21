@@ -105,14 +105,3 @@ From launching marketplaces to analyzing user behavior, I enjoy working at the i
 I enjoy combining **analytics + creativity** — whether it's building a marketplace, editing a video, or designing a game system.
 
 ---
-
-### 💡 (Optional Upgrade — if you want to stand out)
-
-If you want, I can:
-
-* Add **GitHub stats badges**
-* Add a **cool animated header**
-* Make it more **product-manager / SDE / startup focused**
-* Or tailor it for **specific roles (APM / Data / Gaming)**
-
-Just tell me 👍
