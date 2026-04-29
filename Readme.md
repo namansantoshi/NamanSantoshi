@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Naman%20Santoshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Product%20%7C%20Analytics%20%7C%20Growth%20%7C%20Engineering&descAlignY=58&descSize=18&descColor=d0ccff&animation=fadeIn" width="100%"/>
 
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=B.Tech+Mechanical+Engineering+%40+MANIT+Bhopal;Founder+%7C+Product+Lead+%7C+Ops+%26+Analytics;Built+2+Startups+%7C+500%2B+Freelance+Projects;Graduating+July+2026+%7C+Open+to+Opportunities)](https://git.io/typing-svg)
